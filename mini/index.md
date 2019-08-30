@@ -50,8 +50,8 @@ img {
 
     <div id="content">
         <div id="logo">
-            <img src="./img/new.gif" />冰雪美人,失落大帝外挂PK版<img src="./img/new.gif" /><br/>
-            <img src="./img/new.gif" />长年开放,欢迎您的加入!<img src="./img/new.gif" />
+            <img src="new.gif" />冰雪美人,失落大帝外挂PK版<img src="new.gif" /><br/>
+            <img src="new.gif" />长年开放,欢迎您的加入!<img src="new.gif" />
         </div>
         
         <div id="links">
