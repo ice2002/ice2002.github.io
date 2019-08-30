@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: kim
-subtitle: MyBlog
-description: 用这个东西太麻烦
-author: kim
+title: 冰雪美人
+subtitle: 攻略查询
+description: 攻略查询
+author: 小雪
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -216,7 +216,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/kim2008
+    GitHub: https://docs.ilpk.cc
     School: https://www.pku.edu.cn
 
 
